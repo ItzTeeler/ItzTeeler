@@ -1,4 +1,5 @@
-## Hi I'm Tyler Nguyen! | Software Developer at bizzNET | NextJS and TypeScript | Working on AWS and PHP
+## Hi I'm Tyler Nguyen! 
+Software Developer at bizzNET | NextJS and TypeScript | Working on AWS and PHP
 
 <!--
 **ItzTeeler/ItzTeeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
