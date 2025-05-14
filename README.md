@@ -1,5 +1,5 @@
 ## Hi I'm Tyler Nguyen! 
-Software Developer at bizzNET | NextJS, TypeScript, Node, SQLite, Express
+Software Developer at bizzNET | NextJS, TypeScript, Node, SQLite, Express, PhP
 
 <!--
 **ItzTeeler/ItzTeeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
